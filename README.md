@@ -1,2 +1,2 @@
 # Quantitative-Finance-Exercises
-Simple portfolio optimization
+Work in Progress
