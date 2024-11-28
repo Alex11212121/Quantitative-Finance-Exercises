@@ -3,7 +3,7 @@
 This repository contains models developed as part of my Applied Quantitative Finance course. These models were created specifically for the final exam, where students were allowed to bring their own code to apply and analyze financial data.
 
 ## Overview
-This project contains a suite of quantitative finance models focusing on portfolio optimization, risk assessment, and pricing simulations. Each model is designed to provide insights into complex financial decisions and to apply theoretical concepts in real-world scenarios.
+This project contains a suite of quantitative finance models focusing on portfolio optimization, risk assessment, and pricing simulations. Each model is designed to make informed financial decisions and to apply theoretical concepts in real-world scenarios.
 
 1. **Optimization of Portfolios with Sharpe Ratio and Volatility Optimization**: This model targets achieving the highest risk-adjusted return and/or minimum volatility through efficient portfolio allocation. It balances the trade-off between return and risk to deliver an optimal portfolio configuration.
 
